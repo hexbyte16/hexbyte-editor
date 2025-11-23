@@ -1,2 +1,3 @@
-require("hexbyte")
-print("Hello world")
+require('config.options')
+require('config.keybinds')
+require('config.lazy')
